@@ -61,15 +61,15 @@ body{
 
 /* media query */
 /* laptop */
-@media(max-width: 992px){
+/* @media(max-width: 992px){
     html{
         font-size: 70%;
     }
 }
 
 .simply-countdown > .simply-section {
-    padding: 70px;
-}
+    padding: 70px; */
+/* } */
     
 
 /* tablet */
