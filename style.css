@@ -22,7 +22,7 @@ body{
     background-image: url(img/w.png);
     z-index: -1;
     filter:grayscale();
-    background-attachment: fixed;
+    
 }
 
 .hero{
